@@ -15,6 +15,12 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* UTILITIES START*/
+.flex-row {
+  display: flex;
+}
+/* UTILITIES END*/
+
 /* apply styles to <header> */
 header {
   background-color: var(--secondary-color);
@@ -78,14 +84,51 @@ header nav ul li a:hover {
 
 /* HOME STYLES START*/
 .home {
-  width: 100%;
-  margin: 0 auto;
-  padding-bottom: 20px;
-  background-color: var(--primary-color);
+  background: var(--primary-color);
+  max-height: 500px;
 }
 
-.home img {
-  max-width: 300px;
-  max-height: 300px;
-  margin-left: 150px;
+.my-bio {
+  margin: 50px auto;
+  padding-bottom: 50px;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  border-bottom: 1px solid var(--tertiary-color);
 }
+
+.my-bio-text {
+  flex: 2 70%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.my-bio-img {
+  flex: 1 12%;
+  margin-right: 20px;
+}
+
+.my-bio-img img {
+  max-width: 100%;
+}
+
+.my-bio-text {
+  flex: 10;
+}
+
+.my-bio-text p {
+  color: var(--tertiary-color);
+  font-size: 18px;
+  margin-top: -130px;
+}
+
+.my-bio-text h3 {
+  font-size: 26px;
+  line-height: 1.5;
+  color: var(--secondary-color);
+  margin-top: -250px;
+}
+/* HOME STYLES END*/

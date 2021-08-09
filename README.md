@@ -25,4 +25,4 @@ Refactored by Xueting Hu
 
 ## Screenshots
 
-![page_1](./assets/sceenshots/page_1.png)
+![page_1](./assets/screenshots/page_1.png)

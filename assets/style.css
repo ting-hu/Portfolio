@@ -142,7 +142,7 @@ header nav ul li a:hover {
 }
 /* ABOUT STYLES END */
 
-/* PROJECTS STYLES START*/
+/* PROJECTS STYLES START */
 .project {
   width: 100%;
   margin: 0 auto;
@@ -153,8 +153,8 @@ header nav ul li a:hover {
 
 .project-info {
   margin: 20px;
-  background: var(--secondary-color);
-  color: var(--primary-color);
+  background: var(--primary-color);
+  color: var(--secondary-color);
   flex: 1;
 }
 
@@ -175,3 +175,66 @@ header nav ul li a:hover {
 .project-bio p {
   font-size: 17px;
 }
+/* PROJECTS STYLES START*/
+
+/* CONTACT STYLES START*/
+.contact-info {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-left: 220px;
+  margin-right: 220px;
+}
+
+.contact-info > * {
+  flex: 1;
+  margin: 15px;
+}
+
+.contact-info h3 {
+  font-size: 32px;
+}
+
+.contact-info p {
+  margin: 20px 0;
+  line-height: 1.5;
+  font-size: 16px;
+  font-style: normal;
+}
+
+.contact-form input,
+.contact-form textarea {
+  border: 1px solid var(--secondary-color);
+  display: block;
+  padding: 7px 15px;
+  font-size: 16px;
+  color: var(--secondary-color);
+  width: 100%;
+  margin-bottom: 15px;
+  margin-top: 5px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  background-color: rgba(255, 255, 255, 1);
+  outline: none;
+}
+
+.contact-form button {
+  width: 100%;
+  border: none;
+  background-color: var(--secondary-color);
+  color: var(--teriary-color);
+  text-align: center;
+  padding: 15px 0;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+.contact-form button:hover {
+  color: var(--secondary-color);
+  background-color: var(--primary-color);
+}
+/* CONTACT STYLES END*/

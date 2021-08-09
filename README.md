@@ -26,3 +26,6 @@ Refactored by Xueting Hu
 ## Screenshots
 
 ![page_1](./assets/screenshots/page_1.png)
+![page_2](./assets/screenshots/page_2.png)
+![page_3](./assets/screenshots/page_3.png)
+![page_4](./assets/screenshots/page_4.png)

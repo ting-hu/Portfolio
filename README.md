@@ -2,7 +2,7 @@
 
 ## INFORMATION:
 
-1. [assets] folder contains the [images] folder and the [screenshots] folder.
+1. [assets] folder contains the CSS file, the [images] folder and the [screenshots] folder.
 2. [images] folder contains the images for the index.html.
 3. [screenshots] folder contains the screenshots of the refactored code and the sceenshots of the website for submission.
 

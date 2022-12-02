@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi ",
-      "description": "👋 I'm Ting Hu. I am a front-end developer with more than 4 years of experience. I have passion to develop accessible and optimized websites with dynamic user experiences by using React, CSS, and other different third party librairies.",
+      "description": "👋 I'm Ting Hu. I am a front-end developer with 5 years of experience. I have passion to develop accessible and optimized websites with dynamic user experiences by using React, CSS, and other different third party librairies.",
       "philosophy": "I’m a young and self-motivated individual who is reliable and confident with proven skills and experience. Creating highly readable, feasible, and maintainle solution to clients is my goal.",
       "section_name": {
         "about": "About me",
@@ -67,7 +67,6 @@
           "images/portfolio/ContentIQ/p1.jpg",
           "images/portfolio/ContentIQ/p2.jpg"
         ],
-        "url": "https://tetris.adamhowells.co.uk/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -80,6 +79,29 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Benchmarks360tm",
+        "startDate": "2017",
+        "description": "Benchmarks360tm is a suite of intelligent, web-based products that analyze clinical productivity, visualize compensation, and image workforce composition for healthcare organizations. The application is designed with five distinct modules to nationally compare clients’ clinical productivity data to identify outliers based on the market benchmarks and assesses incumbents to perform “what-if” analysis based on the industry standard. In addition, directs clients to achieve national physician and advanced practice providers’ benchmarks from its current procedural terminology coding distribution.",
+        "images": [
+          "images/portfolio/Benchmarks/p1.png",
+          "images/portfolio/Benchmarks/p2.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jest-plain",
+            "name": "Jest"
           }
         ]
       }

@@ -1,0 +1,109 @@
+{
+    "basic_info": {
+      "description_header": "Hi ",
+      "description": "👋 I'm Ting Hu. I am a front-end developer with 5 years of experience. I have passion to develop accessible and optimized websites with dynamic user experiences by using React, CSS, and other different third party librairies.",
+      "philosophy": "I’m a young and self-motivated individual who is reliable and confident with proven skills and experience. Creating highly readable, feasible, and maintainle solution to clients is my goal.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "education": "Education",
+        "expertise": "Expertise",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Cartegraph OMS",
+        "startDate": "2021",
+        "description": 
+        "Cartegraph OMS is an operations management software to extend the life of the assets, generate clear data on the expected spending routine and unexpected activities, centralize and organize all maintenance requests for efficient planning and communication, analyze gathered data for efficient budget spending and keys for different decisions, and to track work on both Apple and Android devices. The Cartegraph OMS includes 65+ pre-built asset templates to fulfilled the other business requirements for a multiple graphics interface.",
+        "images": [
+          "images/portfolio/Cartegraph/p1.png",
+          "images/portfolio/Cartegraph/p2.jpg"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-jest-plain",
+            "name": "Jest"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Paradigm Vendo",
+        "startDate": "2020",
+        "description": 
+        "Paradigm Vendo is a digital selling application that connects manufacturers, home improvement contractors, and dealers.  It provides full packaged features to enable end-to-end selling including appointment management, product configuration and comparison, quoting, customizable branding, demo resources, and leveraging consumers virtually or in person.  With the application syncing to both contractors and dealers, the customers may easily navigate through the modules from the process of appointment creation to contract signing. This application also connects to Paradigm Omni for manufacturers' product endpoints.",
+        "images": [
+          "images/portfolio/Paradigm/p1.png",
+          "images/portfolio/Paradigm/p2.jpg"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },{
+            "class":"devicon-mongodb-plain",
+            "name":"Mongodb"
+          },{
+            "class":"devicon-redux-original",
+            "name":"Redux"
+          }
+        ]
+      },
+      {
+        "title": "ContentIQ",
+        "startDate": "2018",
+        "description": "ContentIQ is an advanced website audit tool that offers insight into any website with a complete analysis report by running a website URL through the application. The analysis report displays the overall score for each checking point, and the user can select different sections such as performance, content & page structure, total errors, etc for detailed descriptions and more subsections; it provides drastic traffic and conversions improvement opportunities by assessing both the content and technical aspects of the website. ",
+        "images": [
+          "images/portfolio/ContentIQ/p1.jpg",
+          "images/portfolio/ContentIQ/p2.jpg"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Benchmarks360tm",
+        "startDate": "2017",
+        "description": "Benchmarks360tm is a suite of intelligent, web-based products that analyze clinical productivity, visualize compensation, and image workforce composition for healthcare organizations. The application is designed with five distinct modules to nationally compare clients’ clinical productivity data to identify outliers based on the market benchmarks and assesses incumbents to perform “what-if” analysis based on the industry standard. In addition, directs clients to achieve national physician and advanced practice providers’ benchmarks from its current procedural terminology coding distribution.",
+        "images": [
+          "images/portfolio/Benchmarks/p1.png",
+          "images/portfolio/Benchmarks/p2.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jest-plain",
+            "name": "Jest"
+          }
+        ]
+      }
+    ]
+}
